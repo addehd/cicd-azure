@@ -18,7 +18,7 @@
 			</picture>
 		</span>
 
-		Yes yes hello world<br /> CICD Azure test
+		to your new<br />SvelteKit app
 	</h1>
 
 	<h2>
