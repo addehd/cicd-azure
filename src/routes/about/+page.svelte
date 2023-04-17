@@ -8,7 +8,7 @@
   <span title='Issues count'>25 issues</span>
 
 	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
+		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app... You can make your own by typing the
 		following into your command line and following the prompts:
 	</p>
 
